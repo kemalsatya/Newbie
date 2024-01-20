@@ -1,0 +1,2 @@
+# Newbie
+Repository pertama
